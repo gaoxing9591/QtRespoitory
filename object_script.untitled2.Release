@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\myCustomPlot.o
+./release\mytracer.o
+./release\qcustomplot.o
+./release\qrc_resc.o
+./release\moc_mainwindow.o
+./release\moc_myCustomPlot.o
+./release\moc_mytracer.o
+./release\moc_qcustomplot.o
+);
