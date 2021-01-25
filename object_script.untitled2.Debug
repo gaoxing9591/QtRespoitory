@@ -4,9 +4,15 @@ INPUT(
 ./debug\myCustomPlot.o
 ./debug\mytracer.o
 ./debug\qcustomplot.o
+./debug\qextserialbase.o
+./debug\qextserialport.o
+./debug\win_qextserialport.o
 ./debug\qrc_resc.o
 ./debug\moc_mainwindow.o
 ./debug\moc_myCustomPlot.o
 ./debug\moc_mytracer.o
 ./debug\moc_qcustomplot.o
+./debug\moc_qextserialbase.o
+./debug\moc_qextserialport.o
+./debug\moc_win_qextserialport.o
 );
